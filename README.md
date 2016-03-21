@@ -1,7 +1,7 @@
 # MicrAudio
 Send files via microphone and music columns.
 
-Send digital data via analogue signal uses a technique called [Phase Shift Keying](http://en.wikipedia.org/wiki/Phase_shift_keying).
+Program sends digital data via analogue signal. Uses a technique called [Phase Shift Keying](http://en.wikipedia.org/wiki/Phase_shift_keying).
 
 1. Attach the microphone on the receiving end to the speakers on the transmitting end.
 May connect jack/jack cabble to pass air transceive.
