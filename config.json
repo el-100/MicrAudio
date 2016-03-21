@@ -1,0 +1,10 @@
+{
+    "car_phase": 0, 
+    "tmp_dir": "tmp_files", 
+    "signature_start": "START*", 
+    "rate": 48000,
+    "bps": 500, 
+    "carrier": 8000.0, 
+    "signature_end": "**END*",
+    "link": "http://awesomegeekblog.blogspot.se/2013/11/file-transfer-over-soundcard-directors.html"
+}
